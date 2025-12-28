@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Numerical computation for moments and distribution of the bidimensional random variables 
+(Re0^S,Re0^V) and (Rp^S,Rp^V) in a stochastic SVIR model"
+version: 1.0.0
+https://doi.org/10.5281/zenodo.18060648
+date-released: 2024-12-24
+url: "https://github.com/MGamboaNZP/SVIR_Re0_Rp_ApplMathComput_2024"
+
+Gamboa, M., & Lopez-Herrero, M. J. (2024). Numerical computation for moments and distribution of the bidimensional random variables 
+(Re0^S,Re0^V) and (Rp^S,Rp^V) in a stochastic SVIR model (version: 1.0.0) 
+[Computer software]. https://doi.org/10.5281/zenodo.18060648
+
+authors:
+    - family-names: "Gamboa"
+      given-names: "M."
+      orcid: "https://orcid.org/0000-0003-1184-1115"
+    - family-names: "Lopez-Herrero"
+      given-names: "M. J."
+
+message: "If you use this software, please cite the software and the following article as below."
+
+Gamboa, M., López-García, M., & Lopez-Herrero, M. J. (2024). On the exact and population bi-dimensional 
+reproduction numbers in a stochastic SVIR model with imperfect vaccine. Applied Mathematics and Computation, 468, 128526
+https://doi.org/10.1016/j.amc.2023.128526
