@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 title: "Numerical computation for moments and distribution of the bidimensional random variables (Re0^S,Re0^V) and (Rp^S,Rp^V) in a stochastic SVIR model"
 version: "1.0.0"
-doi: "10.5281/zenodo.18060648"
 date-released: "2024-12-24"
 url: "https://github.com/MGamboaNZP/SVIR_Re0_Rp_ApplMathComput_2024"
 
