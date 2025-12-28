@@ -1,4 +1,4 @@
-# Re0 and Rp joint and marginal distributions of the exact and population reproduction numbers in a stochastic SVIR Model
+# Joint and marginal distributions of the exact, Re0, and population, Rp, reproduction numbers in a stochastic SVIR Model
 
 This repository contains Matlab scripts associated with the publication:
 
